@@ -1,3 +1,4 @@
+//http://stackoverflow.com/questions/18082247/http-request-in-java-simple-implementation
 import com.basho.riak.client.*;
 import com.basho.riak.client.bucket.*;
 
